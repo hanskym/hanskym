@@ -15,6 +15,9 @@ I work as a full stack web developer to create efficient, scalable, and user-fri
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- <a href="https://github.com/hanskym">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hanskym&theme=tokyonight" />
 </a>

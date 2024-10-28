@@ -16,6 +16,17 @@ I work as a full stack web developer to create efficient, scalable, and user-fri
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 20 October 2024 - To: 27 October 2024
+
+Markdown      7 hrs 20 mins   █████████░░░░░░░░░░░░░░░░   35.82 %
+TypeScript    4 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
+Svelte        2 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+JSON          2 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+JavaScript    1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- <a href="https://github.com/hanskym">

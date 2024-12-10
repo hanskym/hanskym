@@ -18,13 +18,13 @@ I work as a full stack web developer to create efficient, scalable, and user-fri
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 08 December 2024
+From: 02 December 2024 - To: 09 December 2024
 
-Astro         12 hrs 1 min    ███████████▓░░░░░░░░░░░░░   46.83 %
-JSON          3 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-TypeScript    3 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-JavaScript    3 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-CSS           2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Astro         13 hrs 14 mins  ████████████░░░░░░░░░░░░░   47.81 %
+TypeScript    4 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+JavaScript    3 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+JSON          2 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+CSS           2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
 ```
 
 <!--END_SECTION:waka-->

@@ -5,7 +5,7 @@ A Web Development Enthusiast 👨🏻‍💻
 I work as a full stack web developer to create efficient, scalable, and user-friendly web solutions.
 
 -   🌍 I'm based in [Jakarta, Indonesia](https://en.wikipedia.org/wiki/Jakarta)
--   🔭 I'm currently working on [React](https://react.dev), [Next.js](https://nextjs.org), and [Spring Boot](https://spring.io/projects/spring-boot)
+-   🔭 I'm currently working with [React](https://react.dev), [Next.js](https://nextjs.org), and [Spring Boot](https://spring.io/projects/spring-boot)
 -   🖥️ See my personal website at [https://hansky.dev](https://hansky.dev)
 -   ✉️ You can contact me at [hi@hansky.dev](mailto:hi@hansky.dev)
 

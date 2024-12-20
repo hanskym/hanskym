@@ -16,4 +16,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
+          SHOW_TOTAL: true
           COMMIT_MESSAGE: "chore: update WakaTime metrics"

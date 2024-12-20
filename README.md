@@ -20,6 +20,8 @@ I work as a full stack web developer to create efficient, scalable, and user-fri
 ```txt
 From: 12 December 2024 - To: 19 December 2024
 
+Total Time: 18 hrs 38 mins
+
 JavaScript        7 hrs 58 mins   ██████████▓░░░░░░░░░░░░░░   42.46 %
 Astro             5 hrs 54 mins   ████████░░░░░░░░░░░░░░░░░   31.45 %
 JSON              1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %

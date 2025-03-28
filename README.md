@@ -18,15 +18,15 @@ I work as a full stack web developer to create efficient, scalable, and user-fri
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 26 March 2025
+From: 20 March 2025 - To: 27 March 2025
 
-Total Time: 13 hrs 23 mins
+Total Time: 9 hrs 47 mins
 
-JavaScript   5 hrs 20 mins   █████████▓░░░░░░░░░░░░░░░   39.19 %
-TypeScript   5 hrs 11 mins   █████████▓░░░░░░░░░░░░░░░   38.00 %
-CSS          1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Java         1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-JSON         43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+TypeScript   5 hrs 11 mins   █████████████░░░░░░░░░░░░   51.58 %
+JavaScript   2 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
+CSS          1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+JSON         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Java         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
 ```
 
 <!--END_SECTION:waka-->

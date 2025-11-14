@@ -23,15 +23,15 @@ I work as a web developer, creating efficient, scalable, and user-friendly web s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2025 - To: 12 November 2025
+From: 06 November 2025 - To: 13 November 2025
 
-Total Time: 11 hrs 46 mins
+Total Time: 8 hrs 28 mins
 
-Astro        8 hrs 38 mins   █████████████████▓░░░░░░░   70.99 %
-TypeScript   1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-JavaScript   52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-JSON         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-Other        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Astro        6 hrs 3 mins    █████████████████▒░░░░░░░   69.00 %
+TypeScript   1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+JavaScript   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+JSON         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Other        18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 ```
 
 <!--END_SECTION:waka-->

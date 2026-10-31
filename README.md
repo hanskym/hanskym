@@ -44,6 +44,7 @@ TSConfig     6 mins                ░░░░░░░░░░░░░░░
 </a> -->
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hanskym.hanskym)](https://github.com/hanskym)
+[![wakatime](https://wakatime.com/badge/user/f5cc60de-f159-456d-a717-5c4701bf16af.svg)](https://wakatime.com/@f5cc60de-f159-456d-a717-5c4701bf16af)
 
 <!---
 hanskym/hanskym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
